@@ -2,7 +2,8 @@
 
 ## Debriefing
 <details>
-  # Debriefing FoxFit
+  
+# Debriefing FoxFit
 ## Inleiding:
 Het Foxfit platform is een mobiele applicatie voor kinderen en een website voor behandelaren met als doel kinderen met astma behandelen door ze te motiveren en ondersteunen om meer te bewegen. Foxfit is onderdeel van de SIMBA studie en is op dit moment bezig met een pilot.
 Astma behandelen
