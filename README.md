@@ -61,3 +61,19 @@ Op elke vrijdag aan het eind van elke week, zullen wij om 16.00 uur onze voortga
 - Laatste feedback verwerken
 - Presenteren
 </details>
+
+## Vak-criteria
+
+### WAFS
+- App structuur en code kwaliteit: omdat wij samenwerken is een goede structuur en kwaliteit vereist, zodat we elkaars code makkelijk kunnen snappen, aanpassen of gebruiken.
+- Data ophalen en manipuleren: via de API moeten wij de data van de kinderen ophalen en manipuleren zodat deze bruikbaar wordt in onze grafieken.
+- States en routes afhandelen: via routing zullen wij verschillende pagina's maken
+
+### Web-design
+- Exclusive design: we maken deze app puur voor de zorgverleners en voor de kinderen, daarom moet de app precies aan hun wensen voldoen
+
+### PWA
+- Server side rendering: via de server serveren wij pagina's. Ook maken wij zelf een API die vervolgens beschikbaar is vanaf de client.
+
+### Browser technologies
+- De user experience is goed: een gebruiker moet een goed gevoel bij de app krijgen en deze meteen kunnen begrijpen.
